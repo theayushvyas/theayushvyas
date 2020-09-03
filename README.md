@@ -11,7 +11,7 @@
 - 📫 How to reach me: theayushvyas.github.io  
 - ⚡ Fun fact: I am actively looking for a Job.
 
-## My technical Experties
+## My Technical Experties
 
 - Java
 - Java Swings
