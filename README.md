@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about : Instead asking me ask google  ;)
 - 📫 How to reach me: theayushvyas.github.io  
 - ⚡ Fun fact: I am actively looking for a Job.
--->
+
 ## My technical Experties
 
 - Java
@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 - React JS
 - MongoDB
 
-**Wants to Learn MERN Stack Development quickly and easily , here is a link **
+**Wants to Learn MERN Stack Development quickly and easily here is a link **
+
+
 [MERN Resources](https://github.com/theayushvyas/MERN-Resources)
