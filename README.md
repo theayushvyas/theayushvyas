@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**theayushvyas/theayushvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Welcome to my GITHUB Account **
 
 - 🔭 I’m currently working on Something awesome related to MERN Stack
 - 🌱 I’m currently learning MERN Stack , azure and many new amazing technologies.
