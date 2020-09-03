@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MERN Stack , azure and many new amazing technologies.
 - 👯 I’m looking to collaborate on MERN Stack and JAVA Projects .
 - 🤔 I’m looking for help with your Technical Questions
-- 💬 Ask me about : Instead asking me ask google  ;)
+- 💬 Ask me about : Instead of asking me ask google, it will give you a better learning  ;)
 - 📫 How to reach me: theayushvyas.github.io  
 - ⚡ Fun fact: I am actively looking for a Job.
 
