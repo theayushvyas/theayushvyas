@@ -1,5 +1,7 @@
 ### Hi there 👋
-**Welcome to my GITHUB Account **
+
+
+**Welcome to my Github Account**
 
 - 🔭 I’m currently working on Something awesome related to MERN Stack
 - 🌱 I’m currently learning MERN Stack , azure and many new amazing technologies.
@@ -23,7 +25,7 @@
 - React JS
 - MongoDB
 
-**Wants to Learn MERN Stack Development quickly and easily here is a link **
+**Wants to Learn MERN Stack Development quickly and easily here is a link**
 
 
 [MERN Resources](https://github.com/theayushvyas/MERN-Resources)
