@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am [Ayush](https://in.linkedin.com/in/ayushvyas)
 
 **Welcome to my Github Account**
 
@@ -8,13 +8,13 @@
 - 👯 I’m looking to collaborate on MERN Stack and JAVA Projects .
 - 🤔 I’m looking for help with any technical job referral
 - 💬 Ask me about : Instead of asking me ask google, it will give you a better learning  ;)
-- 📫 How to reach me: theayushvyas.github.io  
+- 📫 How to reach me: [theayushvyas.github.io](theayushvyas.github.io)  
 - ⚡ Fun fact: I am actively looking for a Job.
 
-## My Technical Experties
+## My Technical Expertise
 
 - Java
-- Java Swings
+- Java Swing
 - Java Server Pages
 - RSA Archer GRC
 - HTML
