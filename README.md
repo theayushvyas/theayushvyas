@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Something awesome related to MERN Stack
 - 🌱 I’m currently learning MERN Stack , azure and many new amazing technologies.
 - 👯 I’m looking to collaborate on MERN Stack and JAVA Projects .
-- 🤔 I’m looking for help with your Technical Questions
+- 🤔 I’m looking for help with any technical job referral
 - 💬 Ask me about : Instead of asking me ask google, it will give you a better learning  ;)
 - 📫 How to reach me: theayushvyas.github.io  
 - ⚡ Fun fact: I am actively looking for a Job.
