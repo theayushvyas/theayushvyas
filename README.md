@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am [Ayush](https://in.linkedin.com/in/ayushvyas) :coffee:
+### I am [Ayush](https://in.linkedin.com/in/ayushvyas) 
 
 <p align="left">
 	<a href="https://github.com/theayushvyas"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -7,7 +7,7 @@
 	<a href="https://www.instagram.com/iayushvyas/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-**Welcome to my Github Account**
+**Welcome to my Github Account** :coffee:
 
 - 🔭 I’m currently working on Something awesome related to Python and Flask.
 - 🌱 I’m currently learning Flask and aws.
@@ -38,6 +38,7 @@
 
 <br />
 <br />
+
 
 **Wants to Learn MERN Stack Development quickly and easily here is a link**
 
