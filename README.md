@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### I am [Ayush](https://in.linkedin.com/in/ayushvyas)
 
+<a href="https://www.linkedin.com/in/ayushvyas/">
+  <img align="left" alt="Ayush LinkdeIN" width="22px" src="https://www.freepik.com/free-icon/linkedin_928939.htm" />
+</a>
+
 **Welcome to my Github Account**
 
 - 🔭 I’m currently working on Something awesome related to Python and Flask.
