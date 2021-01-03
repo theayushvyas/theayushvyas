@@ -2,7 +2,7 @@
 ### I am [Ayush](https://in.linkedin.com/in/ayushvyas)
 
 **Connect with me on LinkedIn**
-[<img align="left" alt="ayushvyas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ayushvyas/]
+[<img align="left" alt="ayushvyas | LinkedIn" width="22px" style="color:blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ayushvyas/)
 
 
 **Welcome to my Github Account**
