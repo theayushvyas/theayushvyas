@@ -18,7 +18,7 @@
 - 📫 How to reach me: [theayushvyas.github.io/portfolio](theayushvyas.github.io/portfolio)  
 - ⚡ Fun fact: I am actively looking for a Job.
 
-</br>
+<br />
 
 ### Languages and Tools:
 
@@ -40,7 +40,7 @@
 <br />
 <br />
 
-
+<br>
 
 
 [MERN Resources](https://github.com/theayushvyas/MERN-Resources)
