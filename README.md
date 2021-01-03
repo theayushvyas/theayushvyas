@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I am [Ayush](https://in.linkedin.com/in/ayushvyas) 
-[<img align="left" alt="ayushvyas | LinkedIn" width="22px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />](https://www.linkedin.com/in/ayushvyas/)
+### I am [Ayush](https://in.linkedin.com/in/ayushvyas) [<img align="left" alt="ayushvyas | LinkedIn" width="40px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />](https://www.linkedin.com/in/ayushvyas/)
 
 
 **Welcome to my Github Account**
