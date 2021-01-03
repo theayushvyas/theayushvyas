@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am [Ayush](https://in.linkedin.com/in/ayushvyas) coffee:
+### I am [Ayush](https://in.linkedin.com/in/ayushvyas) :coffee:
 
 <p align="left">
 	<a href="https://github.com/theayushvyas"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
