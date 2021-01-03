@@ -1,6 +1,11 @@
 ### Hi there 👋
 ### I am [Ayush](https://in.linkedin.com/in/ayushvyas)
-<i class="fab fa-linkedin-in"></i>
+
+</br>
+
+<img src="https://media.giphy.com/media/wMo5W29Ik9axvVS35l/giphy.gif" width="100" src="https://www.linkedin.com/in/ayushvyas/">
+
+</br>
 
 **Welcome to my Github Account**
 
