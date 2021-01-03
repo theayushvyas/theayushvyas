@@ -1,8 +1,7 @@
 ### Hi there 👋
-### I am [Ayush](https://in.linkedin.com/in/ayushvyas)
+### I am [Ayush] coffee: (https://in.linkedin.com/in/ayushvyas)
 
-### Let's Connect :coffee:
-<p align="center">
+<p align="left">
 	<a href="https://github.com/theayushvyas"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ayushvyas/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/iayushvyas/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
