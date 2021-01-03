@@ -41,7 +41,6 @@
 <br />
 
 
-**Wants to Learn MERN Stack Development quickly and easily here is a link**
 
 
 [MERN Resources](https://github.com/theayushvyas/MERN-Resources)
