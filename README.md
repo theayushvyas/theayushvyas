@@ -1,9 +1,6 @@
 ### Hi there 👋
 ### I am [Ayush](https://in.linkedin.com/in/ayushvyas)
-
-<a href="https://www.linkedin.com/in/ayushvyas/">
-  <img align="left" alt="Ayush LinkdeIN" width="22px" src="https://www.freepik.com/free-icon/linkedin_928939.htm" />
-</a>
+<i class="fab fa-linkedin-in"></i>
 
 **Welcome to my Github Account**
 
